@@ -1,1 +1,1 @@
-These templates creates a Multi-AZ, multi-subnet VPC infrastructure with managed NAT gateways in the public subnet for each Availability Zone. It also creates additional private subnets with dedicated custom network access control lists (ACLs). 
+These templates create a Multi-AZ, multi-subnet VPC infrastructure with managed NAT gateways in the public subnet for each Availability Zone. It also creates additional private subnets with dedicated custom network access control lists (ACLs). 
